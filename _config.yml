@@ -23,7 +23,7 @@ description: Site web destiné aux agents de ligne Elia et propriétaires et ges
 
 # List of links in the navigation bar
 navbar-links:
-  Usage: "Usage du site"
+  Usage: "Usage_du_site.html"
   Resources:
     - Mesures générales: "http://lifeelia.github.io/Documents_Chapeau_PDG/Mesures_G%C3%A9n%C3%A9rales_Gestion_LIFE.html"
     - Liste d'espèces: "http://lifeelia.github.io/Documents_Chapeau_PDG/Liste_Esp%C3%A8ces_Lisi%C3%A8res.html"
@@ -62,7 +62,7 @@ author:
   twitter: life_elia   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: LIFE Elia-RTE  # eg. daattali
+  linkedin: company/5063813  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
