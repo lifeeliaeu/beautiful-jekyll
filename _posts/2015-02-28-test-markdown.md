@@ -8,9 +8,14 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 **attempt to include iframe video and shinyapps**
 
-## Video from the example in stackoverflow
+## Video from the example in stackoverflow  
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+Before  
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>  
+
+After  
+
 
 ## Shinapps ....
 
