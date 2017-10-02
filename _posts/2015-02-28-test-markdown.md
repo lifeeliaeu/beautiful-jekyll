@@ -12,14 +12,14 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 Before  
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="1"> </iframe>  
+<iframe width="800" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="1" align="left"> </iframe>  
 
 After  
 
 
 ## Shinapps ....
 
-<iframe width="1000" height="800" src="https://jeff37.shinyapps.io/Ciply-Mesvin_MapData/" frameborder="0"> </iframe>  
+<iframe width="800" height="800" src="https://jeff37.shinyapps.io/Ciply-Mesvin_MapData/" frameborder="0"> </iframe>  
 
 ---
 
