@@ -36,14 +36,14 @@ avatar: "/img/logo_life-elia_CMYK_Reduit.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/Lisière_forme V.png
+# title-img: /img/Lisière_forme V.png
 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "orange"
+navbar-col: "#66cc66"
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
