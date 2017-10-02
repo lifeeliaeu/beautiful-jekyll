@@ -36,7 +36,7 @@ avatar: "/img/logo_life-elia_CMYK_Reduit.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /img/Lisière_forme V.png
+title-img: /img/Lisière_forme V.png
 
 # --- Background colour/image options --- #
 
