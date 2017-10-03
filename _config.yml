@@ -27,7 +27,7 @@ navbar-links:
   GESTION:
     - Mesures générales: "Mesures_generales"
     - Liste d'espèces: "Tableau_espèces_googleVis"
-    - Livret de reconnaissance des espèces: "http://lifeelia.github.io/Documents_Chapeau_PDG/Eventail essences forestières_6.1.pdf"
+    - Livret de reconnaissance des espèces: "http://lifeelia.github.io/Documents_Chapeau_PDG/Eventail essences forestières.pdf"
   MAE:
   - Répartition des conseillers: "http://lifeelia.github.io/Documents_Chapeau_PDG/Répartition géographique conseillers.pdf"
   - Contact des conseillers: "http://lifeelia.github.io/Documents_Chapeau_PDG/Coordonnées_conseillers_MAE.html"

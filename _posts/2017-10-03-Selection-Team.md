@@ -8,24 +8,12 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 
 *Cliquer sur une des trois zones ou utiliser directement les liens.*  
 
-
 <p align="center">
     <img src="http://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
     <map name="Map" id="Map">
     <area alt="" title="" href="#zone-i" shape="poly" coords="25,75,419,66,557,99,590,176,607,246,606,322,576,340,536,407,442,406,375,432,287,439,244,404,244,307,158,287,122,223,32,200,13,91" />
     <area alt="" title="" href="#zone-ii" shape="poly" coords="560,98,668,55,761,77,845,142,864,238,868,285,822,332,759,342,724,381,609,322,607,248,594,176" />
     <area alt="" title="" href="#zone-iii" shape="poly" coords="703,452,752,539,709,599,620,609,450,501,445,407,540,407,578,342,609,326,727,384" />
-    </map>
-</p>
-
-<br>  
-
-<p align="center">  
-  <img src="img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
-    <map name="Map" id="Map">
-      <area alt="" title="" href="#zone-i" shape="poly" coords="25,75,419,66,557,99,590,176,607,246,606,322,576,340,536,407,442,406,375,432,287,439,244,404,244,307,158,287,122,223,32,200,13,91" />
-      <area alt="" title="" href="#zone-ii" shape="poly" coords="560,98,668,55,761,77,845,142,864,238,868,285,822,332,759,342,724,381,609,322,607,248,594,176" />
-      <area alt="" title="" href="#zone-iii" shape="poly" coords="703,452,752,539,709,599,620,609,450,501,445,407,540,407,578,342,609,326,727,384" />
     </map>
 </p>
 
