@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Liste des espèces pour les lisières</title>
+
+<script src="Tableau_espèces_googleVis_files/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="Tableau_espèces_googleVis_files/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="Tableau_espèces_googleVis_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="Tableau_espèces_googleVis_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="Tableau_espèces_googleVis_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="Tableau_espèces_googleVis_files/navigation-1.1/tabsets.js"></script>
+<link href="Tableau_espèces_googleVis_files/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="Tableau_espèces_googleVis_files/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Liste des espèces pour les lisières</h1>
+
+</div>
+
+
+<p>Le tableau suivant reprend les paramètres permettant de décider si des essences doivent être ou non éliminées des lisières.<br />
+Ce tableau peut être trié en cliquant sur l’en-tête de colonne (tri alphabétique ou selon la valeur de la hauteur maximale): 1 clic pour un tri croissant, 2 clics pour un tri décroissant.<br />
+Il est possible de marquer une ligne en cliquant sur celle-ci (ou plusieurs lignes avec <code>shift</code> ou <code>ctrl</code>).</p>
+<p><strong>Les espèces ligneuses sont sélectionnées</strong> en fonction de leur localisation et de leur hauteur maximale (colonne <strong>“Décision”</strong>):<br />
+- <code>A maintenir</code> <img src="Lisi%C3%A8re_Coupe_OK-Arbustif-Arbor%C3%A9.png" alt="Maintenir" /><br />
+- <code>A maintenir (en bordure du massif)</code> <img src="Lisi%C3%A8re_Coupe_OKArbor%C3%A9Seul.png" alt="Maintenir_massif" /><br />
+- <code>A enlever</code> <img src="Lisi%C3%A8re_Coupe_Interdit.png" alt="Enlever" /></p>
+<!-- Table generated in R 3.3.3 by googleVis 0.6.2 package -->
+<!-- Tue Oct  3 19:49:41 2017 -->
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataTableID379a60abd5db () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+1,
+"Aubépine à deux styles - Crataegus laevigata",
+"Espèce indigène",
+"8",
+8,
+"A maintenir"
+],
+[
+2,
+"Aubépine à un style  - Crataegus monogyna",
+"Espèce indigène",
+"8-10",
+10,
+"A maintenir"
+],
+[
+3,
+"Aulne glutineux  - Alnus glutinosa",
+"Espèce indigène",
+"20-25",
+25,
+"A enlever"
+],
+[
+4,
+"Bouleau pubescent - Betula pubescens",
+"Espèce indigène",
+"20-25",
+25,
+"A enlever"
+],
+[
+5,
+"Bouleau verruqueux - Betula pendula",
+"Espèce indigène",
+"25-30",
+30,
+"A enlever"
+],
+[
+6,
+"Bourdaine  - Frangula alnus",
+"Espèce indigène",
+"5-6",
+6,
+"A maintenir"
+],
+[
+7,
+"Cerisier à grappes - Prunus padus",
+"Espèce indigène",
+"15",
+15,
+"A maintenir (en bordure du massif)"
+],
+[
+8,
+"Cerisier tardif - Prunus serotina",
+"Espèce invasive",
+"12-15",
+15,
+"A enlever"
+],
+[
+9,
+"Charme commun - Carpinus betulus",
+"Espèce indigène",
+"25",
+25,
+"A enlever"
+],
+[
+10,
+"Châtaignier  - Castanea sativa",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+11,
+"Chêne pédonculé - Quercus robur",
+"Espèce indigène",
+"30-35",
+35,
+"A enlever"
+],
+[
+12,
+"Chêne rouge d'Amérique - Quercus rubra",
+"Espèce exotique",
+"25-35",
+35,
+"A enlever"
+],
+[
+13,
+"Chêne sessile ou rouvre - Quercus petraea",
+"Espèce indigène",
+"35-40",
+40,
+"A enlever"
+],
+[
+14,
+"Cornouiller mâle - Cornus mas",
+"Espèce indigène",
+"4-6",
+6,
+"A maintenir"
+],
+[
+15,
+"Cornouiller sanguin - Cornus sanguinea",
+"Espèce indigène",
+"3-4",
+4,
+"A maintenir"
+],
+[
+16,
+"Érable champêtre - Acer campestre",
+"Espèce indigène",
+"20",
+20,
+"A enlever"
+],
+[
+17,
+"Érable plane - Acer platanoides",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+18,
+"Érable sycomore - Acer pseudoplatanus",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+19,
+"Frêne commun - Fraximus excelsior",
+"Espèce indigène",
+"35-40",
+40,
+"A enlever"
+],
+[
+20,
+"Fusain d’Europe  - Evonymus europaeus",
+"Espèce indigène",
+"6",
+6,
+"A maintenir"
+],
+[
+21,
+"Hêtre commun - Fagus sylvatica",
+"Espèce indigène",
+"35-40",
+40,
+"A enlever"
+],
+[
+22,
+"Houx - Ilex aquifolium",
+"Espèce indigène",
+"10-15",
+15,
+"A maintenir"
+],
+[
+23,
+"Merisier  - Prunus avium",
+"Espèce indigène",
+"20-25",
+25,
+"A enlever"
+],
+[
+24,
+"Néflier - Mespilus germanica",
+"Espèce indigène",
+"6",
+6,
+"A maintenir"
+],
+[
+25,
+"Nerprun purgatif  - Rhamnus cathartica",
+"Espèce indigène",
+"6",
+6,
+"A maintenir"
+],
+[
+26,
+"Noisetier ou coudrier - Corylus avellana",
+"Espèce indigène",
+"6-8",
+8,
+"A maintenir"
+],
+[
+27,
+"Noyer commun - Juglans regia",
+"Espèce indigène",
+"25",
+25,
+"A enlever"
+],
+[
+28,
+"Orme champêtre - Ulmus minor",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+29,
+"Orme de montagne - Ulmus glabra",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+30,
+"Peuplier blanc - Populus alba",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+31,
+"Peuplier grisard  - Populus x canescens",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+32,
+"Peuplier tremble - Populus tremula",
+"Espèce indigène",
+"20",
+20,
+"A enlever"
+],
+[
+33,
+"Poirier sauvage - Pyrus pyraster",
+"Espèce indigène",
+"8-20",
+15,
+"A maintenir (en bordure du massif)"
+],
+[
+34,
+"Pommier sauvage - Malus sylvestris",
+"Espèce indigène",
+"10",
+10,
+"A maintenir (en bordure du massif)"
+],
+[
+35,
+"Prunellier ou épine noire - Prunus spinosa",
+"Espèce indigène",
+"3-4",
+4,
+"A maintenir"
+],
+[
+36,
+"Robinier faux-acacia - Robinia pseudiacacia",
+"Espèce exotique",
+"25",
+25,
+"A enlever"
+],
+[
+37,
+"Saule à 3 étamines - Salix triandra",
+"Espèce indigène",
+"4",
+10,
+"A maintenir (en bordure du massif)"
+],
+[
+38,
+"Saule à oreillettes - Salix aurita",
+"Espèce indigène",
+"2,5",
+25,
+"A maintenir"
+],
+[
+39,
+"Saule blanc - Salix alba",
+"Espèce indigène",
+"20-25",
+25,
+"A enlever"
+],
+[
+40,
+"Saule cendré - Salix cinerea",
+"Espèce indigène",
+"6",
+6,
+"A maintenir"
+],
+[
+41,
+"Saule des vanniers - Salix viminalis",
+"Espèce indigène",
+"10",
+10,
+"A maintenir (en bordure du massif)"
+],
+[
+42,
+"Saule fragile ou jaune  - Salix fragilis ou x rubens",
+"Espèce indigène",
+"15",
+25,
+"A maintenir (en bordure du massif)"
+],
+[
+43,
+"Saule marsault - Salix caprea",
+"Espèce indigène",
+"10-15",
+15,
+"A maintenir (en bordure du massif)"
+],
+[
+44,
+"Saule pourpre - Salix purpurea",
+"Espèce indigène",
+"4",
+4,
+"A maintenir"
+],
+[
+45,
+"Sorbier des oiseleurs - Sorbus aucuparia",
+"Espèce indigène",
+"15-20",
+15,
+"A maintenir (en bordure du massif)"
+],
+[
+46,
+"Sureau à grappes  - Sambucus racemosa",
+"Espèce indigène",
+"4-5",
+5,
+"A maintenir"
+],
+[
+47,
+"Sureau noir  - Sambucus nigra",
+"Espèce indigène",
+"8-10",
+8,
+"A maintenir"
+],
+[
+48,
+"Tilleul à grandes feuilles - Tilia platyphyllos",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+49,
+"Tilleul à petites feuilles - Tilia cordata",
+"Espèce indigène",
+"30",
+30,
+"A enlever"
+],
+[
+50,
+"Troène commun - Ligustrum vulgare",
+"Espèce indigène",
+"2-3",
+3,
+"A maintenir"
+],
+[
+51,
+"Viorne Lantane  - Viburnum lantana",
+"Espèce indigène",
+"4",
+4,
+"A maintenir"
+],
+[
+52,
+"Viorne obier  - Viburnum opulus",
+"Espèce indigène",
+"4",
+4,
+"A maintenir"
+] 
+];
+data.addColumn('number','ID');
+data.addColumn('string','Nom français - Nom scientifique');
+data.addColumn('string','Indigénat');
+data.addColumn('string','Hauteur (fourchette)');
+data.addColumn('number','Hauteur max');
+data.addColumn('string','Décision');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartTableID379a60abd5db() {
+var data = gvisDataTableID379a60abd5db();
+var options = {};
+options["allowHtml"] = true;
+
+    var chart = new google.visualization.Table(
+    document.getElementById('TableID379a60abd5db')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "table";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartTableID379a60abd5db);
+})();
+function displayChartTableID379a60abd5db() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+<!-- jsChart -->
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID379a60abd5db"></script>
+<!-- divChart -->
+<div id="TableID379a60abd5db" style="width: 500; height: automatic;">
+
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

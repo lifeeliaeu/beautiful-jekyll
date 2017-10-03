@@ -26,9 +26,16 @@ navbar-links:
   Usage: "Usage_du_site"
   Resources:
     - Mesures générales: "Mesures_generales"
-    - Mesures générales2: "https://github.com/lifeeliaeu/lifeeliaeu.github.io/Mesures_generales.md"
-    - Liste d'espèces: "http://lifeelia.github.io/Documents_Chapeau_PDG/Liste_Esp%C3%A8ces_Lisi%C3%A8res.html"
-    - MAE: "http://lifeelia.github.io/Documents_Chapeau_PDG/Coordonn%C3%A9es_conseillers_MAE.html"
+    - Liste d'espèces: "Tableau_espèces_googleVis"
+  MAE:
+  - Répartition des conseillers: "http://lifeelia.github.io/Documents_Chapeau_PDG/Répartition géographique conseillers.pdf"
+  - Contact des conseillers: "http://lifeelia.github.io/Documents_Chapeau_PDG/Coordonnées_conseillers_MAE.html"
+  - Présentation synthétique: "http://lifeelia.github.io/Documents_Chapeau_PDG/FicheMAE.pdf"
+  Modules de formation:
+    - Module espèces et habitats: "http://lifeelia.github.io/Documents_Chapeau_PDG/Module espèces et habitats_definitif.pdf"
+    - Module techniques de gestion: "http://lifeelia.github.io/Documents_Chapeau_PDG/Module_techniques_de_gestion_definitif.pdf"
+    - Module législation: "http://lifeelia.github.io/Documents_Chapeau_PDG/Module_legislation_definitif.pdf"
+    - Module partenariats: "http://lifeelia.github.io/Documents_Chapeau_PDG/Module partenariats_definitif.pdf"
   LIFE Elia webpage: "http://life-elia.eu"
 
 # Image to show in the navigation bar - image must be a square (width = height)

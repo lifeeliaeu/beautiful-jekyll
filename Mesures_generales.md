@@ -2,6 +2,7 @@
 layout: page
 title: Mesures de gestion
 subtitle: Description des mesures générales de gestion valables pour tous les sites
+bigimg: img/Illustrations Lisières en V avec personnages et réseau mares_BD.png
 ---
 
 
