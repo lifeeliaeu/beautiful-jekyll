@@ -23,7 +23,7 @@ description: Site web destiné aux agents de ligne Elia et propriétaires et ges
 
 # List of links in the navigation bar
 navbar-links:
-  Usage: "Usage_du_site"
+#  Usage: "Usage_du_site"
   Resources:
     - Mesures générales: "Mesures_generales"
     - Liste d'espèces: "Tableau_espèces_googleVis"
