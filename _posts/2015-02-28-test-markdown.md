@@ -19,7 +19,7 @@ After
 
 ## Shinapps ....
 
-<iframe width="800" height="800" src="https://jeff37.shinyapps.io/Ciply-Mesvin_MapData/" frameborder="0"> </iframe>  
+<iframe width="800" height="800" src="https://jeff37.shinyapps.io/Ciply-Mesvin_MapData/" frameborder="0" scrolling="yes"> </iframe>  
 
 ---
 
