@@ -6,7 +6,19 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 
 ## La Région Wallonne est subdivisée en 3 secteurs  
 
-*Cliquer sur une des trois zones ou utiliser directement les liens.*  
+Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps.
+
+![Installation steps](img/install-steps.gif)
+
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
+
+<p align="center">
+  <a href="https://www.paypal.me/daattali">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</p>
+
+*Cliquer sur une des trois zones ou utiliser directement les liens.*    
 
 ![img](img/Repartition_Equipes_RW.jpg)  
 
@@ -18,8 +30,6 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
     <area alt="" title="" href="#zone-iii" shape="poly" coords="703,452,752,539,709,599,620,609,450,501,445,407,540,407,578,342,609,326,727,384" />
     </map>
   </p>
-
-
 
 
 ### Zone I
