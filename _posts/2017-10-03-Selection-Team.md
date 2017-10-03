@@ -6,6 +6,8 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 
 ## La Région Wallonne est subdivisée en 3 secteurs  
 
+*Cliquer sur une des trois zones ou utiliser directement les liens.*  
+
 
 <p>
     <img src="img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
