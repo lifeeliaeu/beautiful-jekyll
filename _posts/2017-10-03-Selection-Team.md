@@ -18,7 +18,11 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 </p>
 
 <p>
-    <img src="img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
+    <img src="img/Repartition_Equipes_RW.jpg" alt="map" />
+</p>
+
+<p>
+    <img src="./img/Repartition_Equipes_RW.jpg" alt="map" />
 </p>
 
 
