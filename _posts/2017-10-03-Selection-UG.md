@@ -6,7 +6,7 @@ subtitle: Accès à la page 'plan de gestion' via l'UG
 
 ## Liste des UG concernées
 
-[SEL202](#sel202) - [SEL203](#sel203) - [SEL204](#sel204) - [SEL207](#sel207) - [SEL209](#sel209) - [SEL210](#sel210) - [SEL211](#sel211) - [SEL218](#sel218) - [SEL219](#sel219) - [TRL01](#TRL01) - [UL204](#UL204) - [UL205](#UL205) - [UL216](#UL216) - [UL219](#UL219) - [UL220](#UL220) - [UL230](#UL230) - [UL232](#UL232) - [UL233](#UL233) - [UM201](#UM201) - [UM204](#UM204) - [UM206](#UM206) - [UM207](#UM207) - [UM208](#UM208) - [UM209](#UM209) - [UM211](#UM211) - [UM213](#UM213) - [UM215](#UM215) - [UM216](#UM216) - [UM218](#UM218) - [UM219A](#UM219A) - [UM219B](#UM219B) - [UM223](#UM223) - [UM224](#UM224) - [UM227A](#UM227A) - [UM230A](#UM230A) - [UM230B](#UM230B) - [UM231](#UM231) - [UM232](#UM232) - [UM234](#UM234) - [UM235](#UM235) - [UR209](#UR209) - [UR211](#UR211) - [UR212](#UR212) - [UR218](#UR218) - [UR221](#UR221) - [UR234](#UR234) - [UR245](#UR245)
+[SEL202](#sel202) - [SEL203](#sel203) - [SEL204](#sel204) - [SEL207](#sel207) - [SEL209](#sel209) - [SEL210](#sel210) - [SEL211](#sel211) - [SEL218](#sel218) - [SEL219](#sel219) - [TRL01](#trl01) - [UL204](#ul204) - [UL205](#ul205) - [UL216](#ul216) - [UL219](#ul219) - [UL220](#ul220) - [UL230](#ul230) - [UL232](#ul232) - [UL233](#ul233) - [UM201](#um201) - [UM204](#um204) - [UM206](#um206) - [UM207](#um207) - [UM208](#um208) - [UM209](#um209) - [UM211](#um211) - [UM213](#um213) - [UM215](#um215) - [UM216](#um216) - [UM218](#um218) - [UM219A](#um219A) - [UM219B](#um219B) - [UM223](#um223) - [UM224](#um224) - [UM227A](#um227A) - [UM230A](#um230A) - [UM230B](#um230B) - [UM231](#um231) - [UM232](#um232) - [UM234](#um234) - [UM235](#um235) - [UR209](#ur209) - [UR211](#ur211) - [UR212](#ur212) - [UR218](#ur218) - [UR221](#ur221) - [UR234](#ur234) - [UR245](#ur245)
 
 ***  
 
@@ -210,12 +210,4 @@ Meix-devant-Virton
 
 [AISEAU-PRESLES](http://lifeelia.github.io/Aiseau-Presles_2016_12_22/Chapeau_Aiseau-Presles.html "Ouvre l'interface cartographique du plan de gestion")  
 
-[Retour en haut de la page](#Liste-des-UG-concernées)  
-
-* * *
-
-![Logo LIFE+](http://lifeelia.github.io/Pict/SVG/logo_life_Reduit500x350.jpg) ![Logo LIFE Elia-RTE](http://lifeelia.github.io/Pict/SVG/logo_life-elia_CMYK.svg) ![Logo Elia](http://lifeelia.github.io/Pict/SVG/Logo Elia.jpg) ![Logo SPW](http://lifeelia.github.io/Pict/SVG/Logo SPW.jpg)
-
-<address>Page créée par: [Jean-François Godeau](mailto:jfgodeau@gmail.com).  
-Site web: [LIFE Elia-RTE](http://www.life-elia.eu)  
-</address>
+[Retour en haut de la page](#liste-des-ug-concernées)  
