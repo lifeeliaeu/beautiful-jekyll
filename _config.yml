@@ -25,7 +25,7 @@ description: Site web destiné aux agents de ligne Elia et propriétaires et ges
 navbar-links:
   Usage: "Usage_du_site"
   Resources:
-    - Mesures générales: "Mesures_generales.html"
+    - Mesures générales: "Mesures_generales.md"
     - Liste d'espèces: "http://lifeelia.github.io/Documents_Chapeau_PDG/Liste_Esp%C3%A8ces_Lisi%C3%A8res.html"
     - MAE: "http://lifeelia.github.io/Documents_Chapeau_PDG/Coordonn%C3%A9es_conseillers_MAE.html"
   LIFE Elia webpage: "http://life-elia.eu"
@@ -57,43 +57,20 @@ navbar-col: "#66cc66"
 author:
   name: JF Godeau
   email: "jfgodeau@gmail.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+#  facebook: yourname  # eg. daattali
+#  github: yourname    # eg. daattali
   twitter: life_elia   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: company/5063813  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+  linkedin: company/5063813  # Not working!!
+  telephone: +32472944847   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
   facebook: false
   email: true
   twitter: true
-  google-plus: false
   github: false
-  reddit: false
   linkedin: true
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
   telephone: false
-  steam: false
-  twitch: false
-  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -108,7 +85,7 @@ url-pretty: "lifeeliaeu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus: "jeanfranoisgodeau"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
