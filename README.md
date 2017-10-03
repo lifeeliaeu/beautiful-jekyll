@@ -1,6 +1,6 @@
 ## Dépôt de données pour les plans de gestion du projet [LIFE Elia-RTE](http://www.life-elia.eu/)  
 
-!["Logo LIFE Elia-RTE"](img/logo_life-elia_CMYK.jpg)
+!["Logo LIFE Elia-RTE"](img/logo_life-elia_CMYK_Reduit.jpg)
 
 Cet espace héberge un site web statique basé sur **Beautiful Jekyll**, un projet créé par [Dean Attali](http://deanattali.com) et partagé via *Github*.  
 > *Copyright 2016 [Dean Attali](http://deanattali.com)*  

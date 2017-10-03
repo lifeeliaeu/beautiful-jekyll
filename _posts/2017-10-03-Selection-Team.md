@@ -4,9 +4,9 @@ title: Sélection par zone LIFE
 subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 ---
 
-## La Région Wallonne est subdivisée en 3 secteurs
+## La Région Wallonne est subdivisée en 3 secteurs  
 
-![Equipes en RW](https://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg)  
+![Equipes en RW](img/Repartition_Equipes_RW.jpg)  
 
 <p>
     <img src="https://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
@@ -18,11 +18,11 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 </p>
 
 <p>
-    <img src="https://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map" />
+    <img src="https://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map1" />
 </p>
 
 <p>
-    <img src="http://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map" />
+    <img src="http://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map2" />
 </p>
 
 
