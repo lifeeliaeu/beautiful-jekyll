@@ -25,7 +25,7 @@ description: Site web destiné aux agents de ligne Elia et propriétaires et ges
 navbar-links:
   Usage: "Usage_du_site"
   Resources:
-    - Mesures générales: "http://lifeelia.github.io/Documents_Chapeau_PDG/Mesures_G%C3%A9n%C3%A9rales_Gestion_LIFE.html"
+    - Mesures générales: "Mesures_generales.html"
     - Liste d'espèces: "http://lifeelia.github.io/Documents_Chapeau_PDG/Liste_Esp%C3%A8ces_Lisi%C3%A8res.html"
     - MAE: "http://lifeelia.github.io/Documents_Chapeau_PDG/Coordonn%C3%A9es_conseillers_MAE.html"
   LIFE Elia webpage: "http://life-elia.eu"

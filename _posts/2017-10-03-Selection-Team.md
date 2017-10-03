@@ -6,10 +6,9 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
 
 ## La Région Wallonne est subdivisée en 3 secteurs  
 
-![Equipes en RW](img/Repartition_Equipes_RW.jpg)  
 
 <p>
-    <img src="https://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
+    <img src="img/Repartition_Equipes_RW.jpg" alt="map" usemap="#Map" />
     <map name="Map" id="Map">
     <area alt="" title="" href="#zone-i" shape="poly" coords="25,75,419,66,557,99,590,176,607,246,606,322,576,340,536,407,442,406,375,432,287,439,244,404,244,307,158,287,122,223,32,200,13,91" />
     <area alt="" title="" href="#zone-ii" shape="poly" coords="560,98,668,55,761,77,845,142,864,238,868,285,822,332,759,342,724,381,609,322,607,248,594,176" />
@@ -17,20 +16,6 @@ subtitle: Accès à la page 'plan de gestion' via les noms des zones LIFE
     </map>
 </p>
 
-<p>
-    <img src="https://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map1" />
-</p>
-
-<p>
-    <img src="http://lifeeliaeu.github.io/img/Repartition_Equipes_RW.jpg" alt="map2" />
-</p>
-
-
-<p align="center">
-  <a href="https://www.paypal.me/daattali">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
-  </a>
-</p>
 
 
 
