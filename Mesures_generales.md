@@ -84,7 +84,7 @@ Dégagement des plantations durant les 5 à 10 premières années pour éviter l
 
 ### Récurrence du passage pour le contrôle de la végétation  
 **Phase de croissance** : max tous les 3 ans.  
-**Phase installées** (= arbres à couronne bien développée) : `pas/peu d'intervention`, (retaille de branches hautes) à évaluer lors des passage de contrôle.  
+**Phase installée** (= arbres à couronne bien développée) : `pas/peu d'intervention`, (retaille de branches hautes) à évaluer lors des passage de contrôle.  
 
 [Retour à l'index](#index)  
 
