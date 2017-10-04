@@ -7,17 +7,19 @@ bigimg: img/Illustrations Lisières en V avec personnages et réseau mares_BD.pn
 
 # Index
 - [1-Lisière](#1-lisière)  
-- [1-Lisière restaurée](#1-Lisière-restaurée)  
-- [2-Verger](#2-Verger)  
-- [2-Verger (Genévriers)](#2-Verger-Genévriers)  
-- [3-Tourbière](#3-Tourbière)  
-- [3-Landes](#3-Landes)  
-- [3-Prairies maigre](#3-Prairies-maigre)  
-- [4-Mare](#4-Mare)  
-- [5-Invasives](#5-Invasives)  
-- [6-Infrastructure de pâturage](#6-Infrastructure-de-pâturage)  
-- [6-Infrastructure fauchage](#6-Infrastructure-fauchage)  
-- [7-Prairie fleurie](#7-Prairie-fleurie)  
+- [1-Lisière restaurée](#1-lisière-restaurée)  
+- [2-Verger](#2-verger)  
+- [2-Verger (Genévriers)](`#2-verger-(genévriers)`)  
+- [2-Verger (Genévriers)](#`2-verger-(genévriers)`)  
+- [2-Verger (Genévriers)](#2-verger-genévriers)  
+- [3-Tourbière](#3-tourbière)  
+- [3-Landes](#3-landes)  
+- [3-Prairies maigre](#3-prairies-maigre)  
+- [4-Mare](#4-mare)  
+- [5-Invasives](#5-invasives)  
+- [6-Infrastructure de pâturage](#6-infrastructure-de-pâturage)  
+- [6-Infrastructure fauchage](#6-infrastructure-fauchage)  
+- [7-Prairie fleurie](#7-prairie-fleurie)  
 
 ---  
 
