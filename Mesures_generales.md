@@ -205,8 +205,8 @@ A définir au cas par cas et en fonction de l'existence d'une action complément
 ### Mesures générales de gestion  
 Si MAE active, les mesures de gestion de la convention spécifique à la MAE s'appliquent.  
 Un pâturage est généralement effectué en deux phases dont la charge dépend de l'habitat et de l'animal mis en pâture: `phase de restauration` puis `phase d'entretien`  
-Le `pâturage de restauration` correspond à une charge annuelle d'environ **1 (0,75-1,5) UGB/ha/an**. Ce pâturage peut s'etendre de début juin à fin octobre. L'exploitant s’engage à gérer les éventuels refus en fin de saison de pâturage et à maîtriser la recolonisation ligneuse éventuelle.
-Le `pâturage d’entretien` sera autorisé entre le 1er juillet et le 15 septembre de manière à appliquer une pression de pâturage de **minimum 0.5 UGB/ha/an**. L'exploitant s’engage à gérer les éventuels refus en fin de saison de pâturage et à maîtriser la recolonisation ligneuse éventuelle.  
+Le `pâturage de restauration` correspond à une charge annuelle d'environ **0,5 (0,25-1) UGB/ha/an**. Ce pâturage peut s'etendre de début juin à fin octobre. L'exploitant s’engage à gérer les éventuels refus en fin de saison de pâturage et à maîtriser la recolonisation ligneuse éventuelle.
+Le `pâturage d’entretien` sera autorisé entre le 1er juillet et le 15 septembre de manière à appliquer une pression de pâturage de **minimum 0.25 UGB/ha/an**. L'exploitant s’engage à gérer les éventuels refus en fin de saison de pâturage et à maîtriser la recolonisation ligneuse éventuelle.  
 
 Le cas échéant, l'exploitant sera tenu de clôturer les mares pour les mettre en défens du bétail.  
 

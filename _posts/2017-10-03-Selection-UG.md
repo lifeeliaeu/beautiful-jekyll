@@ -18,15 +18,15 @@ subtitle: Accès à la page 'plan de gestion' via l'UGE
 
 ### SEL203
 
-[DOISCHE](http://lifeelia.github.io/Doische_2016_12_02/Chapeau_Doische.html "Ouvre l'interface cartographique du plan de gestion")  
+[DOISCHE](http://lifeelia.github.io/Doische_2018_04_28/Chapeau_Doische.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### SEL204
 
-[COUVIN](http://lifeelia.github.io/Couvin_2017_02_10/Chapeau_Couvin.html "Ouvre l'interface cartographique du plan de gestion")  
+[COUVIN](http://lifeelia.github.io/Couvin_2018_04_27/Chapeau_Couvin.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### SEL207
 
-[COUVIN](http://lifeelia.github.io/Couvin_2017_02_10/Chapeau_Couvin.html "Ouvre l'interface cartographique du plan de gestion")  
+[COUVIN](http://lifeelia.github.io/Couvin_2018_04_27/Chapeau_Couvin.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### SEL209
 
@@ -38,11 +38,11 @@ subtitle: Accès à la page 'plan de gestion' via l'UGE
 
 ### SEL211
 
-[ANHEE](http://lifeelia.github.io/Anhée_2016_12_23/Chapeau_Anhée.html "Ouvre l'interface cartographique du plan de gestion")  
+[ANHEE](http://lifeelia.github.io/Anhée_2018_04_25/Chapeau_Anhée.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### SEL218
 
-[ANGLEUR](http://lifeelia.github.io/Angleur_2016_12_23/Chapeau_Angleur.html "Ouvre l'interface cartographique du plan de gestion")  
+[ANGLEUR](http://lifeelia.github.io/Angleur_2018_04_28/Chapeau_Angleur.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### SEL219
 
@@ -75,7 +75,7 @@ Beez-Wierde
 
 ### UL230
 
-[ANGLEUR](http://lifeelia.github.io/Angleur_2016_12_23/Chapeau_Angleur.html "Ouvre l'interface cartographique du plan de gestion")  
+[ANGLEUR](http://lifeelia.github.io/Angleur_2018_04_28/Chapeau_Angleur.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UL232
 
@@ -99,17 +99,18 @@ Libramont
 
 ### UM207
 
-[MELLIER](http://lifeelia.github.io/Mellier_2016_11_29/Chapeau_Mellier.html "Ouvre l'interface cartographique du plan de gestion")  
+[MELLIER](http://lifeelia.github.io/Mellier_2018_04_28/Chapeau_Mellier.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UM208
 
 [ARLON](http://lifeelia.github.io/Arlon_2016_12_23/Chapeau_Arlon.html "Ouvre l'interface cartographique du plan de gestion")  
-[MELLIER](http://lifeelia.github.io/Mellier_2016_11_29/Chapeau_Mellier.html "Ouvre l'interface cartographique du plan de gestion")
+[MELLIER](http://lifeelia.github.io/Mellier_2018_04_28/Chapeau_Mellier.html "Ouvre l'interface cartographique du plan de gestion")
 
 ### UM209
 
 [NASSOGNE-TENNEVILLE](http://lifeelia.github.io/Nassogne-Tenneville_2017_02_01/Chapeau_Nassogne-Tenneville.html "Ouvre l'interface cartographique du plan de gestion")  
-Sainte-Ode
+[SAINTE-ODE](http://lifeelia.github.io/Sainte-Ode_2018_04_28/Chapeau_Sainte-Ode.html "Ouvre l'interface cartographique du plan de gestion")  
+
 
 ### UM211
 
@@ -165,7 +166,7 @@ Meix-devant-Virton
 
 ### UM231
 
-[BEAURAING](http://lifeelia.github.io/Beauraing_2016_12_16/Chapeau_Beauraing.html "Ouvre l'interface cartographique du plan de gestion")  
+[BEAURAING](http://lifeelia.github.io/Beauraing_2018_04_27/Chapeau_Beauraing.html "Ouvre l'interface cartographique du plan de gestion")  
 [CINEY](http://lifeelia.github.io/Ciney_2016_12_23/Chapeau_Ciney.html "Ouvre l'interface cartographique du plan de gestion")
 
 ### UM232
@@ -182,7 +183,7 @@ Meix-devant-Virton
 
 ### UR209
 
-[ANHEE](http://lifeelia.github.io/Anhée_2016_12_23/Chapeau_Anhée.html "Ouvre l'interface cartographique du plan de gestion")  
+[ANHEE](http://lifeelia.github.io/Anhée_2018_04_25/Chapeau_Anhée.html "Ouvre l'interface cartographique du plan de gestion")  
 [CINEY](http://lifeelia.github.io/Ciney_2016_12_23/Chapeau_Ciney.html "Ouvre l'interface cartographique du plan de gestion")
 
 ### UR211
@@ -199,7 +200,7 @@ Meix-devant-Virton
 
 ### UR221
 
-[DOISCHE](http://lifeelia.github.io/Doische_2016_12_02/Chapeau_Doische.html "Ouvre l'interface cartographique du plan de gestion")  
+[DOISCHE](http://lifeelia.github.io/Doische_2018_04_28/Chapeau_Doische.html "Ouvre l'interface cartographique du plan de gestion")  
 [PHILIPPEVILLE](http://lifeelia.github.io/Philippeville_2016_12_03/Chapeau_Philippeville.html "Ouvre l'interface cartographique du plan de gestion")
 
 ### UR234
