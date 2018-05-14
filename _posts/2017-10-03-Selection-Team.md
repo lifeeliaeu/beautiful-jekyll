@@ -32,7 +32,8 @@ Agent responsable: [Mathieu Derume](mailto:mathieu.derume@gmail.com)
 [ANHEE](http://lifeelia.github.io/Anhée_2018_04_25/Chapeau_Anhée.html "Ouvre l'interface cartographique du plan de gestion")  
 [MALONNE](http://lifeelia.github.io/Malonne_2018_05_08/Chapeau_Malonne.html "Ouvre l'interface cartographique du plan de gestion")  
 [PONDROME](http://lifeelia.github.io/Pondrome_2018_05_08/Chapeau_Pondrome.html "Ouvre l'interface cartographique du plan de gestion")  
-[ANDENNE-HUY](http://lifeelia.github.io/Andenne-Huy_2018_05_08/Chapeau_Durbuy.html "Ouvre l'interface cartographique du plan de gestion")  
+[ANDENNE-HUY](http://lifeelia.github.io/Andenne-Huy_2018_05_08/Chapeau_Andenne-Huy.html "Ouvre l'interface cartographique du plan de gestion")  
+[BEEZ-WIERDE](http://lifeelia.github.io/Beez-Wierde_2018_05_14/Chapeau_Beez-Wierde.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### Zone II
 Agent responsable: [Pierre Clerx](mailto:clerx.pierre@gmail.com)
@@ -40,7 +41,7 @@ Agent responsable: [Pierre Clerx](mailto:clerx.pierre@gmail.com)
 [FERRIERES](http://lifeelia.github.io/Ferrières_2018_05_08/Chapeau_Ferrières.html "Ouvre l'interface cartographique du plan de gestion")  
 [RAMIOUL](http://lifeelia.github.io/Ramioul_2018_05_08/Chapeau_Ramioul.html "Ouvre l'interface cartographique du plan de gestion")  
 [ANGLEUR](http://lifeelia.github.io/Angleur_2018_04_28/Chapeau_Angleur.html "Ouvre l'interface cartographique du plan de gestion")  
-[VIELSALM](http://lifeelia.github.io/Vielsalm_2016_12_25/Chapeau_Vielsalm.html "Ouvre l'interface cartographique du plan de gestion")  
+[VIELSALM](http://lifeelia.github.io/Vielsalm_2018_05_14/Chapeau_Vielsalm.html "Ouvre l'interface cartographique du plan de gestion")  
 [SPA](http://lifeelia.github.io/Spa_2017_02_07/Chapeau_Spa.html "Ouvre l'interface cartographique du plan de gestion")  
 [DURBUY](http://lifeelia.github.io/Durbuy_2018_05_08/Chapeau_Durbuy.html "Ouvre l'interface cartographique du plan de gestion")  
 
@@ -54,7 +55,8 @@ Agent responsable: [Sébastien Pirot](mailto:pirot.sebastien@gmail.com)
 [ARLON](http://lifeelia.github.io/Arlon_2016_12_23/Chapeau_Arlon.html "Ouvre l'interface cartographique du plan de gestion")  
 [SAINTE-ODE](http://lifeelia.github.io/Sainte-Ode_2018_04_28/Chapeau_Sainte-Ode.html "Ouvre l'interface cartographique du plan de gestion")  
 [MEIX-DEVANT-VIRTON](http://lifeelia.github.io/Meix-devant-Virton_2018_05_05/Chapeau_Bièvre-Paliseul.html "Ouvre l'interface cartographique du plan de gestion")  
-
+[FLORENVILLE](http://lifeelia.github.io/Florenville_2018_05_14/Chapeau_Florenville.html "Ouvre l'interface cartographique du plan de gestion")  
+[LIBRAMONT](http://lifeelia.github.io/Libramont_2018_05_09/Chapeau_Libramont.html "Ouvre l'interface cartographique du plan de gestion")  
 
 [Retour en haut de la page](#la-région-wallonne-est-subdivisée-en-3-secteurs)  
 

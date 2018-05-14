@@ -50,7 +50,7 @@ subtitle: Accès à la page 'plan de gestion' via l'UGE
 
 ### TRL01
 
-Beez-Wierde  
+[BEEZ-WIERDE](http://lifeelia.github.io/Beez-Wierde_2018_05_14/Chapeau_Beez-Wierde.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UL204
 
@@ -95,7 +95,7 @@ Beez-Wierde
 
 ### UM206
 
-Libramont  
+[LIBRAMONT](http://lifeelia.github.io/Libramont_2018_05_09/Chapeau_Libramont.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UM207
 
@@ -114,7 +114,7 @@ Libramont
 
 ### UM211
 
-[VIELSALM](http://lifeelia.github.io/Vielsalm_2016_12_25/Chapeau_Vielsalm.html "Ouvre l'interface cartographique du plan de gestion")  
+[VIELSALM](http://lifeelia.github.io/Vielsalm_2018_05_14/Chapeau_Vielsalm.html "Ouvre l'interface cartographique du plan de gestion")  
 [SPA](http://lifeelia.github.io/Spa_2017_02_07/Chapeau_Spa.html "Ouvre l'interface cartographique du plan de gestion")
 
 ### UM213
@@ -137,7 +137,7 @@ Libramont
 ### UM219A
 
 [BERTRIX-NEUFCHATEAU](http://lifeelia.github.io/Bertrix-Neufchâteau_2016_12_22/Chapeau_Bertrix-Neufchâteau.html "Ouvre l'interface cartographique du plan de gestion")  
-Florenville
+[FLORENVILLE](http://lifeelia.github.io/Florenville_2018_05_14/Chapeau_Florenville.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UM219B
 
@@ -149,7 +149,7 @@ Florenville
 
 ### UM224
 
-[VIELSALM](http://lifeelia.github.io/Vielsalm_2016_12_25/Chapeau_Vielsalm.html "Ouvre l'interface cartographique du plan de gestion")  
+[VIELSALM](http://lifeelia.github.io/Vielsalm_2018_05_14/Chapeau_Vielsalm.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UM227A
 
