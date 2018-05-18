@@ -141,7 +141,7 @@ subtitle: Accès à la page 'plan de gestion' via l'UGE
 
 ### UM219B
 
-[MEIX-DEVANT-VIRTON](http://lifeelia.github.io/Meix-devant-Virton_2018_05_05/Chapeau_Bièvre-Paliseul.html "Ouvre l'interface cartographique du plan de gestion")  
+[MEIX-DEVANT-VIRTON](http://lifeelia.github.io/Meix-devant-Virton_2018_05_05/Chapeau_Meix-devant-Virton.html "Ouvre l'interface cartographique du plan de gestion")  
 
 ### UM223
 

@@ -54,7 +54,7 @@ Agent responsable: [Sébastien Pirot](mailto:pirot.sebastien@gmail.com)
 [BERTRIX-NEUFCHATEAU](http://lifeelia.github.io/Bertrix-Neufchâteau_2016_12_22/Chapeau_Bertrix-Neufchâteau.html "Ouvre l'interface cartographique du plan de gestion")  
 [ARLON](http://lifeelia.github.io/Arlon_2018_05_18/Chapeau_Arlon.html "Ouvre l'interface cartographique du plan de gestion")  
 [SAINTE-ODE](http://lifeelia.github.io/Sainte-Ode_2018_04_28/Chapeau_Sainte-Ode.html "Ouvre l'interface cartographique du plan de gestion")  
-[MEIX-DEVANT-VIRTON](http://lifeelia.github.io/Meix-devant-Virton_2018_05_05/Chapeau_Bièvre-Paliseul.html "Ouvre l'interface cartographique du plan de gestion")  
+[MEIX-DEVANT-VIRTON](http://lifeelia.github.io/Meix-devant-Virton_2018_05_05/Chapeau_Meix-devant-Virton.html "Ouvre l'interface cartographique du plan de gestion")  
 [FLORENVILLE](http://lifeelia.github.io/Florenville_2018_05_14/Chapeau_Florenville.html "Ouvre l'interface cartographique du plan de gestion")  
 [LIBRAMONT](http://lifeelia.github.io/Libramont_2018_05_09/Chapeau_Libramont.html "Ouvre l'interface cartographique du plan de gestion")  
 
